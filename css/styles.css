@@ -12,7 +12,7 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 main{
-    height: 100vh;
+    height: calc(100vh - 40px);
     width: 100vh;
     display: flex;
     margin: auto;
